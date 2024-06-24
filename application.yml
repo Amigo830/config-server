@@ -1,0 +1,6 @@
+eureka:
+  client:
+    register-with-server: true
+    fetch-registry: true
+  instance:
+    hostname: localhost
